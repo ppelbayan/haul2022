@@ -41,7 +41,7 @@ $('.nav-link').on('click',function(){
                 content += `<div class="col-md-4">
                 <div class="card m-2">
                 <div class="card-body">
-                    <a href="/Twibbon Jadi/`+data.foto+`">
+                    <a href="https://raw.githubusercontent.com/ppelbayan/haul2022/main/Twibbon%20Jadi/`+data.foto+">
                     <div class="col-sm-8">
                         <div class="card-body">
                         <p class="card-text">`+data.khataman+`</p>
